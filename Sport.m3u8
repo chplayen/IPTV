@@ -113,11 +113,23 @@ https://7pal.short.gy/fox506au
 #EXTINF:-1 group-title="Fox Sports",Fox Sports 07
 https://7pal.short.gy/fox507au
 
-#EXTINF:-1 group-title="Матч",Матч ТВ
+#EXTINF:-1 group-title="Матч", Матч Премьер
+http://46.8.46.14/premier/index.m3u8
+#EXTINF:-1 group-title="Матч",Матч ТВ - Server 1
 http://185.46.16.239:8000/Match_TV
-#EXTINF:-1 group-title="Матч", Матч Игра
+#EXTINF:-1 group-title="Матч",Матч ТВ - Server 2
+http://46.8.46.14/match/index.m3u8
+#EXTINF:-1 group-title="Матч", Матч Игра - Server 1
 http://185.46.16.239:8000/Match_Igra
-#EXTINF:-1 group-title="Матч", Матч Страна
+#EXTINF:-1 group-title="Матч", Матч Игра - Server 2
+http://46.8.46.14/eurosport/index.m3u8
+#EXTINF:-1 group-title="Матч", Матч Страна - Server 1
 http://185.46.16.239:8000/Match_Nash_Sport
+#EXTINF:-1 group-title="Матч", Матч Страна - Server 1
+http://195.64.140.147:10099/99
+#EXTINF:-1 group-title="Матч",Матч Арена - Server 1
+http://46.8.46.14/arena/index.m3u8
+#EXTINF:-1 group-title="Матч",Матч Арена - Server 2
+http://195.64.140.147:10096/96
 
 
