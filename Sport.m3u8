@@ -101,13 +101,11 @@ http://116.90.120.149:8000/play/a0cm/index.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Sports",Sports TV (720p) [Geo-blocked]
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
-#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-name="" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports",Dubai Sports 1 (1080p)
+#EXTINF:-1 group-title="Dubai Sports" tvg-logo="https://i.imgur.com/Poxw8lG.png", Dubai Sports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-name="" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Sports",Dubai Sports 2 (720p)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-name="" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="Sports",Dubai Sports 3 (1080p)
+#EXTINF:-1 group-title="Dubai Sports" tvg-logo="https://i.imgur.com/PMJ7Zmo.png", Dubai Sports 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Dubai Sports" tvg-logo="https://i.imgur.com/U0A8Gex.png", Dubai Sports 3
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="TRACE.Sports.Stars.HD.sg" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/trace-sport-stars-es.png" group-title="Sports",Trace Sports Stars
