@@ -13,6 +13,8 @@ http://84.54.128.52:9090/play/4004/index.m3u8
 
 #EXTINF:-1 group-title="Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 2
 http://185.236.230.212:9982/play/a0b9
+#EXTINF:-1 group-title="Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 2
+http://78.130.250.2:8023/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Kênh 4K",Sky Sports Main Event UHD
 https://7pal.short.gy/SSMEuhd
