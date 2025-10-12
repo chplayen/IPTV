@@ -95,4 +95,6 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/maste
 #EXTINF:-1 tvg-id="TRACE.Sports.Stars.HD.sg" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/trace-sport-stars-es.png" group-title="Sports",Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Чехия 🇨🇿",SPORT 2 HD CZ/SK
+http://185.236.230.212:9982/play/a08g
 
