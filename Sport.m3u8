@@ -130,3 +130,11 @@ https://7pal.short.gy/fox506au
 
 #EXTINF:-1 group-title="Матч",Матч ТВ
 http://185.46.16.239:8000/Match_TV
+
+#EXTINF:-1 group-title="Матч", Матч Игра
+http://185.46.16.239:8000/Match_Igra
+
+#EXTINF:-1 group-title="Матч", Матч Страна
+http://185.46.16.239:8000/Match_Nash_Sport
+
+
