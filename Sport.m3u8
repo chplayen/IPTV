@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-id="Eurosport.1.de" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sports",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport.1.de" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Eurosport",Eurosport 1
 http://185.189.225.157/EuroSport1/index.m3u8
 
-#EXTINF:38 aktv-group="astro" tvg-id="astro/eurosport1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",EuroSport 1
-http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.de" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Eurosport",Eurosport 1
+http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 
 #EXTINF:39 aktv-group="astro" tvg-id="astro/eurosport2" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",EuroSport 2
 http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
