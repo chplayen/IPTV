@@ -1,1 +1,94 @@
+#EXTINF:-1 tvg-id="Eurosport.1.de" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sports",Eurosport 1
+http://185.189.225.157/EuroSport1/index.m3u8
+
+#EXTINF:38 aktv-group="astro" tvg-id="astro/eurosport1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",EuroSport 1
+http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
+
+#EXTINF:39 aktv-group="astro" tvg-id="astro/eurosport2" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",EuroSport 2
+http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
+https://rg.hoangducanh.site/canalsp
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Kênh 4K",Sky Sports Main Event UHD
+https://7pal.short.gy/SSMEuhd
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/hd/sky-sports-uhd-uk.png" group-title="UHD",Sky Sports UHD
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118947.ts
+
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Sport", PremierSports1
+https://7pal.short.gy/prsport1
+
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Sport", PremierSports2
+https://7pal.short.gy/prsport2
+
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="Sport", USA NetWork FHD
+https://7pal.short.gy/usanetwork
+
+#EXTINF:-1 tvg-id="4Sport" tvg-logo="https://i.ibb.co/RTVXW2gj/Screenshot-2025-05-18-231648.png" group-title="Sport",4Sport
+https://pepsi.abntv.live/hls/4spstream.m3u8
+
+#EXTINF:-1 tvg-id="SkySport1.nz" tvg-logo="https://i.imgur.com/ThJHEuN.png" group-title="Sport",Sky Sport 1 (1080p)
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118585.ts
+
+#EXTINF:-1 tvg-id="SkySport2.nz" tvg-logo="https://i.imgur.com/cu8yB69.png" group-title="Sport",Sky Sport 2 (1080p)
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts
+
+#EXTINF:-1 tvg-id="SkySport5.nz" tvg-logo="https://i.imgur.com/xgpKcYh.png" group-title="Sport",Sky Sport 5 (1080p)
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118589.ts
+
+#EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
+https://mt01.utako.moe/js1/index.m3u8
+
+#EXTINF:-1 group-title="BS" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
+https://mt01.utako.moe/js2/index.m3u8
+
+#EXTINF:-1 group-title="BS" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
+https://mt01.utako.moe/js3/index.m3u8
+
+#EXTINF:-1 group-title="BS" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
+https://mt01.utako.moe/js4/index.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
+https://mt02.utako.moe/sport_live_plus/index.m3u8
+
+#EXTINF:-1,tvg-id="体育频道|Arena" tvg-name="体育频道|Arena" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA.png" group-title="Sport",Astro Arena
+https://smart.pendy.dpdns.org/Smart.php?id=Arena
+
+#EXTINF:-1,tvg-id="体育频道|Arena 2" tvg-name="体育频道|Arena 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA2.png" group-title="Sport",Astro Arena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Arena2
+
+#EXTINF:-1,FOX Sports 1
+https://fenixplay.info:8443/play/iawFISc4DWbuQJwtVm9xvl8dbXmVoOwMzkMQYbYZ3ls74_aCKJetPZgR24__IPIX
+
+#EXTINF:-1,FOX Sports 2
+https://fenixplay.info:8443/play/iawFISc4DWbuQJwtVm9xvnKHCRj6jBGwERuj_Jok53v3rS7LFWR0i5rTmDYxPUqw
+
+#EXTINF:-1,ESPN
+https://fenixplay.info:8443/play/iawFISc4DWbuQJwtVm9xvgH44TDaupA-VsnG9MO3sv-FWcFGgVg3-KWacf9eMsW1
+
+#EXTINF:40 aktv-group="astro" tvg-id="astro/tntsports1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",TNT SPORTS 1
+http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
+
+#EXTINF:41 aktv-group="astro" tvg-id="astro/tntsports2" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",TNT SPORTS 2
+http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
+
+#EXTINF:42 aktv-group="astro" tvg-id="astro/tntsports3" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",TNT SPORTS 3
+http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Sports",Sports TV (720p) [Geo-blocked]
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-name="" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports",Dubai Sports 1 (1080p)
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-name="" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Sports",Dubai Sports 2 (720p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-name="" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="Sports",Dubai Sports 3 (1080p)
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="TRACE.Sports.Stars.HD.sg" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/trace-sport-stars-es.png" group-title="Sports",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+
 
