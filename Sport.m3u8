@@ -7,6 +7,10 @@ http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
 #EXTINF:39 aktv-group="astro" tvg-id="astro/eurosport2" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",EuroSport 2
 http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
 
+#EXTINF:-1 aktv-group="astro" tvg-id="astro/eurosport2" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",EuroSport 2
+http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
+http://84.54.128.52:9090/play/4004/index.m3u8
+
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
 https://rg.hoangducanh.site/canalsp
 
