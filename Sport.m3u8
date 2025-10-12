@@ -138,6 +138,9 @@ https://7pal.short.gy/fox506au
 #EXTINF:-1 group-title="Fox Sports",Fox Sports 07
 https://7pal.short.gy/fox507au
 
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://i.imgur.com/HiBrysh.png", ESPN U (720p)
+https://fl7.moveonjoy.com/ESPN_U/index.m3u8
+
 #EXTINF:-1 group-title="Матч", Матч Премьер
 http://46.8.46.14/premier/index.m3u8
 #EXTINF:-1 group-title="Матч",Матч ТВ - Server 1
