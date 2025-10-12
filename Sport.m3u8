@@ -11,9 +11,6 @@ http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
 http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
 http://84.54.128.52:9090/play/4004/index.m3u8
 
-#EXTINF:-1 group-title="Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
-https://rg.hoangducanh.site/canalsp
-
 #EXTINF:-1 group-title="Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 2
 http://185.236.230.212:9982/play/a0b9
 
@@ -112,28 +109,23 @@ http://195.64.140.147:10116/116
 
 #EXTINF:-1 group-title="Fox Sports",Fox Sports 01
 https://7pal.short.gy/fox501au
-
 #EXTINF:-1 group-title="Fox Sports",Fox Sports 02
 https://7pal.short.gy/fox502au
-
 #EXTINF:-1 group-title="Fox Sports",Fox Sports 03
 https://7pal.short.gy/fox503au
-
 #EXTINF:-1 group-title="Fox Sports",Fox Sports 04
 https://7pal.short.gy/fox504au
-
 #EXTINF:-1 group-title="Fox Sports",Fox Sports 05
 https://7pal.short.gy/fox505au
-
 #EXTINF:-1 group-title="Fox Sports",Fox Sports 06
 https://7pal.short.gy/fox506au
+#EXTINF:-1 group-title="Fox Sports",Fox Sports 07
+https://7pal.short.gy/fox507au
 
 #EXTINF:-1 group-title="Матч",Матч ТВ
 http://185.46.16.239:8000/Match_TV
-
 #EXTINF:-1 group-title="Матч", Матч Игра
 http://185.46.16.239:8000/Match_Igra
-
 #EXTINF:-1 group-title="Матч", Матч Страна
 http://185.46.16.239:8000/Match_Nash_Sport
 
