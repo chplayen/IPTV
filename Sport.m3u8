@@ -82,6 +82,15 @@ https://fl7.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 group-title="TSN5" tvg-logo="https://i.imgur.com/HEzHpzz.png", TSN 5
 https://fl7.moveonjoy.com/TSN_5/index.m3u8
 
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://i.imgur.com/RGeLxjv.png", Star Sports 1 Hindi
+http://116.90.120.149:8000/play/a0bv/index.m3u8
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://i.imgur.com/kHerF19.png", Star Sports 2 Hindi
+http://116.90.120.149:8000/play/a0cs/index.m3u8
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://i.imgur.com/Mh9tKPx.png", Star Sports Select 1
+http://116.90.120.149:8000/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://i.imgur.com/FtRT73R.png", Star Sports Select 2
+http://116.90.120.149:8000/play/a0cm/index.m3u8
+
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Sports",Sports TV (720p) [Geo-blocked]
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
