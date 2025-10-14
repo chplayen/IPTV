@@ -38,13 +38,11 @@ https://7pal.short.gy/usanetwork
 https://pepsi.abntv.live/hls/4spstream.m3u8
 
 #EXTINF:-1 tvg-id="SkySport1.nz" tvg-logo="https://i.imgur.com/ThJHEuN.png" group-title="Sport",Sky Sport 1
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/118585.ts
-
+#http://primestreams.tv:826/live/SF11/vulwBvtfo9/118585.ts
 #EXTINF:-1 tvg-id="SkySport2.nz" tvg-logo="https://i.imgur.com/cu8yB69.png" group-title="Sport",Sky Sport 2
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts
-
+#http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts
 #EXTINF:-1 tvg-id="SkySport5.nz" tvg-logo="https://i.imgur.com/xgpKcYh.png" group-title="Sport",Sky Sport 5
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/118589.ts
+#http://primestreams.tv:826/live/SF11/vulwBvtfo9/118589.ts
 
 #EXTINF:-1 group-title="JSport" tvg-logo="https://iili.io/KeCbJhQ.png",JSport 1
 https://mt01.utako.moe/js1/index.m3u8
