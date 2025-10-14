@@ -58,10 +58,9 @@ https://mt01.utako.moe/js4/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
 https://mt02.utako.moe/sport_live_plus/index.m3u8
 
-#EXTINF:-1,tvg-id="体育频道|Arena" tvg-name="体育频道|Arena" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA.png" group-title="Sport",Astro Arena
+#EXTINF:-1 group-title="Astro" tvg-logo="https://iili.io/KenAZMl.png", Astro Arena
 https://smart.pendy.dpdns.org/Smart.php?id=Arena
-
-#EXTINF:-1,tvg-id="体育频道|Arena 2" tvg-name="体育频道|Arena 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA2.png" group-title="Sport",Astro Arena 2
+#EXTINF:-1 group-title="Astro" tvg-logo="https://iili.io/KenYPg2.png", Astro Arena 2
 https://smart.pendy.dpdns.org/Smart.php?id=Arena2
 
 #EXTINF:-1 group-title="TNT Sport", TNT Sport 1
