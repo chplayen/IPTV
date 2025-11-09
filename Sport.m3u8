@@ -61,14 +61,15 @@ https://smart.pendy.dpdns.org/Smart.php?id=Arena
 #EXTINF:-1 group-title="Astro" tvg-logo="https://iili.io/KenYPg2.png", Astro Arena 2
 https://smart.pendy.dpdns.org/Smart.php?id=Arena2
 
-#EXTINF:-1 group-title="TNT Sport", TNT Sport 1
-#https://7pal.short.gy/tntspts1
-#EXTINF:-1 group-title="TNT Sport", TNT Sport 2
-#https://7pal.short.gy/tntspts2
-#EXTINF:-1 group-title="TNT Sport", TNT Sport 3
-#https://7pal.short.gy/tntspts3
-#EXTINF:-1 group-title="TNT Sport", TNT Sport 4
-#https://7pal.short.gy/tntspts4
+EXTINF:-1 group-title="TNT Sport" tvg-logo="https://iili.io/Kb586XV.png", TNT Sport 1 [UK]
+http://ronaldo.tvfor.pro/Z6V9d48eGz/tht6v98456np1k198n81n2t8?%7CUser-Agent=http-user-agent=Lavf/56.15.102
+EXTINF:-1 group-title="TNT Sport" tvg-logo="https://iili.io/Kb5sqzu.png", TNT Sport 2  [UK]
+http://ronaldo.tvfor.pro/3Z76Abnp8N/tht6v98456np1k198n81n2t8?%7CUser-Agent=http-user-agent=Lavf/56.15.102
+EXTINF:-1 group-title="TNT Sport" tvg-logo="https://iili.io/Kb545PV.png", TNT Sport 3  [UK]
+http://ronaldo.tvfor.pro/r25HTg8Sx7/tht6v98456np1k198n81n2t8?%7CUser-Agent=http-user-agent=Lavf/56.15.102
+EXTINF:-1 group-title="TNT Sport", TNT Sport 4  [UK]
+http://ronaldo.tvfor.pro/Ff54kV22Cg/tht6v98456np1k198n81n2t8?%7CUser-Agent=http-user-agent=Lavf/56.15.102
+
 
 #EXTINF:-1 group-title="TSN" tvg-logo="https://i.imgur.com/eRFE0jZ.png", TSN 1
 https://fl7.moveonjoy.com/TSN_1/index.m3u8
