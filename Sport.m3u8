@@ -1,13 +1,14 @@
 #EXTINF:-1 group-title="Eurosport" tvg-logo="https://iili.io/KeCsVGn.png", Eurosport 1
-http://185.189.225.157/EuroSport1/index.m3u8
+http://ronaldo.tvfor.pro/EurosportHD/tht6v98456np1k198n81n2t8?%7CUser-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="Eurosport" tvg-logo="https://iili.io/KeCsVGn.png", Eurosport 1
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Eurosport" tvg-logo="https://iili.io/KeCsVGn.png", Eurosport 1
 http://95.85.109.219:7000/play/a076
+
 #EXTINF:-1 group-title="Eurosport" tvg-logo="https://iili.io/KeCZdQI.png", Eurosport 2
 http://95.85.109.219:7000/play/704
 #EXTINF:-1 group-title="Eurosport" tvg-logo="https://iili.io/KeCZdQI.png", Eurosport 2
-http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
+http://ronaldo.tvfor.pro/Eurosport2HDRussia/tht6v98456np1k198n81n2t8?%7CUser-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="Eurosport" tvg-logo="https://iili.io/KeCZdQI.png", Eurosport 2
 http://84.54.128.52:9090/play/4004/index.m3u8
 
@@ -43,6 +44,12 @@ https://pepsi.abntv.live/hls/4spstream.m3u8
 #http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts
 #EXTINF:-1 tvg-id="SkySport5.nz" tvg-logo="https://i.imgur.com/xgpKcYh.png" group-title="Sport",Sky Sport 5
 #http://primestreams.tv:826/live/SF11/vulwBvtfo9/118589.ts
+
+
+#EXTINF:-1 group-title="Nova" tvg-logo="https://iili.io/Kb7I8p2.png", Nova 1
+http://ronaldo.tvfor.pro/ASIlkyrOST/tht6v98456np1k198n81n2t8?%7CUser-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Nova" tvg-logo="https://iili.io/Kb7TU8v.png", Nova 2
+http://ronaldo.tvfor.pro/yGMaNCTrio/tht6v98456np1k198n81n2t8?%7CUser-Agent=http-user-agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="JSport" tvg-logo="https://iili.io/KeCbJhQ.png",JSport 1
 https://mt01.utako.moe/js1/index.m3u8
