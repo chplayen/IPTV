@@ -51,6 +51,17 @@ http://ronaldo.tvfor.pro/ASIlkyrOST/tht6v98456np1k198n81n2t8?%7CUser-Agent=http-
 #EXTINF:-1 group-title="Nova" tvg-logo="https://iili.io/Kb7TU8v.png", Nova 2
 http://ronaldo.tvfor.pro/yGMaNCTrio/tht6v98456np1k198n81n2t8?%7CUser-Agent=http-user-agent=Lavf/56.15.102
 
+#EXTINF:0 group-title="Canal Sports", Canal+ Sports 1
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=151081&extension=ts&play_token=10Nh4QSCAL
+#EXTINF:0 group-title="Canal Sports" tvg-logo="https://iili.io/Kb01HD7.png", Canal+ Sports 2
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=151082&extension=ts&play_token=l9ZvhZ4KNn
+#EXTINF:0 group-title="Canal Sports" tvg-logo="https://iili.io/Kb0GYwN.png", Canal+ Sports 3
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=151083&extension=ts&play_token=HPlBrmxjwS
+#EXTINF:0 group-title="Canal Sports" tvg-logo="https://iili.io/Kb0MlOQ.png", Canal+ Sports 4
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=151084&extension=ts&play_token=JSfUEWeTec
+#EXTINF:0 group-title="Canal Sports" tvg-logo="https://iili.io/Kb0VN4e.png", Canal+ Sports 5
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=151085&extension=ts&play_token=abakMDukvy
+
 #EXTINF:-1 group-title="JSport" tvg-logo="https://iili.io/KeCbJhQ.png",JSport 1
 https://mt01.utako.moe/js1/index.m3u8
 #EXTINF:-1 group-title="JSport" tvg-logo="https://iili.io/KeCm3Nf.png",JSport 2
